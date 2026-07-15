@@ -1,5 +1,0 @@
-flask
-werkzeug
-openai-whisper
-edge-tts
-deep-translator
